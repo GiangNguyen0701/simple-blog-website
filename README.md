@@ -1,1 +1,1 @@
-A simple blog website that you can read some article and review pictures
+A simple blog website that you can read some articles and review pictures
